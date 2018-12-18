@@ -1,4 +1,4 @@
-package com.tom.PokerGame;
+package com.tom;
 
 
 public class PokerGame {

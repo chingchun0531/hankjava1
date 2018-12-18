@@ -1,4 +1,4 @@
-package com.tom.PokerGame;
+package com.tom;
 
 public class Card {
 	char[] suits = { '\u2663', '\u2666', '\u2665', '\u2660' };

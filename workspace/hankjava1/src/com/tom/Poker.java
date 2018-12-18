@@ -1,4 +1,4 @@
-package com.tom.PokerGame;
+package com.tom;
 
 import java.util.Random;
 
